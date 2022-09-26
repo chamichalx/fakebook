@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <meta name="kewords" content="fakebook, profile, personal">
+
+          <title>Fakebook K.RADOVIĆ</title>
+      </head>
+
+      <body>
+      <center>
+          <Body background="https://img.freepik.com/free-photo/white-stone-podium-minimal-product-display-pedestal-rock-cosmetic-beauty-product-placement-studio-platform-3d-background_56104-1704.jpg?w=740&t=st=1664184493~exp=1664185093~hmac=9fdb2b3998f8a22d875befe985af669ade5cf10b5d947869aea5aa5ebad3b128">
+
+
+          <h1><i>Fakebook</i></h1>
+          Look up for: <input type="text, number" placeholder="Search by name, postal code">
+
+
+          <hr>
+
+
+          <h3>Katarina Radović</h3>
+          <img src="https://assets.turbologo.com/blog/en/2019/12/19084754/Wonder-woman-photo.png" width="300" height="200">
+
+
+
+          <br>
+          <br>
+          <br>
+          <button>ADD FRIEND</button>
+          <br>
+
+          <hr>
+          <br>
+
+          <strong>City:</strong> VINKOVCI</><br>
+          <strong>Age:</strong> 32</i><br>
+          <strong>Education:</strong> Farmaceutski tehničar,studentica Farmaceutskog Fakulteta</i><br>
+          <strong>Friends:</strong> Over 657</i><br>
+          <strong>Block people</strong> 287</i><br>
+
+
+
+      </center>
+      </body>
+</html></html>
